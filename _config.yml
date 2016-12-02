@@ -6,7 +6,7 @@ url: "http://new-beginning.me" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Meghana Singh
-  avatar: avatar.png
+  avatar: justCalvin.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
