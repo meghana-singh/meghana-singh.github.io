@@ -12,7 +12,7 @@ Meghana
 <form action="https://getsimpleform.com/messages?form_api_token=3ede85d20dd6e0104931b96448e0a84b" method="post">
 <div class="form-group">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <!--<input type='hidden' name='redirect_to' value='http://new-beginning.me/thank-you/' />-->
+  <input type='hidden' name='redirect_to' value='http://new-beginning.me/thank-you/' />
   <input style="display: block;" type='text' name='name' placeholder='Your Full Name'>
 </div>
 <div class="form-group">
