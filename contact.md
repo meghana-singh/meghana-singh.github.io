@@ -2,16 +2,26 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
 ---
+Hi! Thanks for taking interest in my portfolio. Please feel free to leave me a message and I'll get back as soon as possible.
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Sincerely,
+
+Meghana
 
 <form action="https://getsimpleform.com/messages?form_api_token=3ede85d20dd6e0104931b96448e0a84b" method="post">
+<div class="form-group">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://new-beginning.me/thank-you/' />
-  <input type='text' name='name' placeholder='Your Full Name' />
-  <input type='email' name='email' placeholder='Your E-mail Address' />
-  <textarea name='message' placeholder='Write your message ...'></textarea>
-  <input type='submit' value='Send Message' />
+  <!--<input type='hidden' name='redirect_to' value='http://new-beginning.me/thank-you/' />-->
+  <input style="display: block;" type='text' name='name' placeholder='Your Full Name'>
+</div>
+<div class="form-group">
+  <input class="form-control" type='email' name='email' placeholder='Your E-mail Address'>
+</div>
+<div class="form-group">
+  <textarea class="form-control" rows="30" name='message' placeholder='Write your message ...'></textarea>
+</div>
+<button type="submit" name="Send Message" class="btn btn-primary">Send Message</button>
+  <!--<input type='submit' value='Send Message' />-->
 </form>
+

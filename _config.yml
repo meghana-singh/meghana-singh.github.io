@@ -22,12 +22,12 @@ theme_settings:
   email_address: meghana1602@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble: ""
-  facebook: "Meghana Singh"
+  dribbble:
+  facebook: 
   flickr:
   github: "meghana-singh" #"madebymunsters/type-theme"
   google_plus:
-  instagram: ""
+  instagram: 
   linkedin:  https://www.linkedin.com/in/meghana-singh-85313739 # Full URL
   pinterest:
   reddit:
@@ -35,7 +35,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: ""
+  twitter: "https://twitter.com/Meghanasingh16"
   wordpress:
   youtube:
 
