@@ -12,7 +12,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Developer, Learner, Thinker and Doer! </h1>
+     <p>A seasoned engineering professional with 12+ years of experience.</p>
+     <p>I'm looking to revitalize my career by creating meaningful end-to-end experiences by layering my web development skills over the VLSI engineering experience. </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -35,7 +36,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "https://twitter.com/Meghanasingh16"
+  twitter: "Meghanasingh16"
   wordpress:
   youtube:
 

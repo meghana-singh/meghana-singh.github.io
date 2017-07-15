@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Webflow
+title: Blocipedia
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
-short-description: BlocJams for iOS is awesome!
+short-description: Collaborate through a Wiki app!
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Blocipedia allows users to create new Wikis, invite collaborators to edit the content, get a standard or a premium account, create private Wikis (premium account only). Admin has rights to delete Wikis.
