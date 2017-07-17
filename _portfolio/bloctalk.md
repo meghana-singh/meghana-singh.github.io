@@ -7,8 +7,22 @@ thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/20
 short-description: Know what your users are doing!
 
 ---
+
 [webAnalytics](https://secret-brushlands-22130.herokuapp.com/)
 is an end to end web analytics product with a dashboard built on Rails. Events are tracked, captured and saved to database using client side javaScript snippet and server side API.
+
+<img src="/img/webAnalytics_welcome_index_view.png">
+<br>
+
+<h3> User's Registered Apps  </h3>
+
+<img src="/img/webAnalytics_registered_app_show_view.png">
+<br>
+
+<h3> Dashboard of saved Event from registered app </h3>
+
+<img src="/img/webAnalytics_events_show_view.png">
+<br>
 
 <h3>Requirements</h3>
 1. App to have User Accounts. 
@@ -47,6 +61,10 @@ class RegisteredApplication < ApplicationRecord
 end
 {% endhighlight %}
 
+<h4> Register new App </h4>
+<img src="/img/webAnalytics_registered_app_new_view.png">
+<br>
+
 <h4>RegisteredApplications Controller</h4>
 The corresponding controller is generated with the following actions: index, show, new, create and destroy
 
@@ -75,6 +93,10 @@ The registered application is built with permitted attributes using the below ma
     params.require(:registered_application).permit(:name, :url)
   end
 {% endhighlight %}
+
+<h4> Delete App </h4>
+<img src="/img/webAnalytics_registered_app_delete_view.png">
+<br>
 
 Destroy Action helps in de-registering and destroying an already existing application registration.
 {% highlight ruby %}

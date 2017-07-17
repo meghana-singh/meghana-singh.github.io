@@ -10,6 +10,14 @@ short-description: Teleioo will motivate you to accomplish your goals!
 [Teleioo](https://lit-bayou-47361.herokuapp.com/users/sign_in)
 which in Greek means ***to carry through completely, to accomplish, finish, bring to an end*** is a productivity app with the goal of motivating users to complete their tasks in a given period of time. The app has motivational quotes and alert system when a task is approaching its deadline. The ultimate vision is to have smart motivational quotes contextual to tasks at hand and user's past behavior generated through artificial intelligence. The app is built using Ruby on Rails.
 
+<img src="/img/teleioo_welcome_index_view.png">
+<br>
+
+<h3> User's list of tasks </h3>
+<img src="/img/teleioo_task_show_view.png">
+<br>
+
+
 <h3>Requirements</h3>
 1. App to have User Accounts. 
 2. Once logged in, the User's show page should list all the user tasks. 
@@ -60,6 +68,10 @@ belongs_to :user
 
 validates :name, length: { minimum: 5 }, presence: true
 
+<h4> Validation of task attributes</h4>
+<img src="/img/teleioo_task_new_view.png">
+<br>
+
 <h4>ItemsController</h4>
 Items Controller is going to have the below actions: new, create and delete
    
@@ -88,6 +100,12 @@ The item is built with permitted attributes using the below mass assignment and 
    end
 {% endhighlight %}
    
+
+
+<h4> Create new task </h4>
+<img src="/img/teleioo_new_view.png">
+<br>
+
 ***Destroy Action***:
 Once a User completes a task, its deleted by making a **Ajax** request. The _destroy_ action responds to the Ajax request because of the format.js in the **respond_to** block in the controller action. The specific item is deleted in the database and the corresponding views/destroy.js.erb view file that generates the actual javaScript code is sent and executed on the client side.
 {% highlight ruby %}   
@@ -180,6 +198,9 @@ namespace :todo do
   end
 end
 {% endhighlight %}
+
+<img src="/img/teleioo_welcome_about_view.png">
+<br>
 
 <h3>Conclusion</h3>
 It was rewarding to build a practical Ruby On Rails app which I could use in my daily life. Besides learning to develope rails app with ruby, I also wanted to make use of Ajax requests instead of reloading page so it helped me gain insight on how to do that. 
