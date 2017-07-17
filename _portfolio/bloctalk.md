@@ -16,7 +16,7 @@ is an end to end web analytics product with a dashboard built on Rails. Events a
 
 <h3> User's Registered Apps  </h3>
 
-<img src="/img/webAnalytics_registered_app_show_view.png">
+<img src="/img/webAnalytics_registered_app_show_view.PNG">
 <br>
 
 <h3> Dashboard of saved Event from registered app </h3>
