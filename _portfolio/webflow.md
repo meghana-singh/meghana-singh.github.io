@@ -1,9 +1,23 @@
 ---
 layout: post
-title: Blocipedia
+title: BlocChat
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
-short-description: Collaborate through a Wiki app!
+short-description: Lets Chat!
 
 ---
-Blocipedia allows users to create new Wikis, invite collaborators to edit the content, get a standard or a premium account, create private Wikis (premium account only). Admin has rights to delete Wikis.
+BlocChat is a AngularJS Firebase app for realtime chatting. Users can login, create chat rooms and chat with other logged in users.
+
+
+<img src="/img/blocChat_rooms.PNG">
+<br>
+
+<h3> New Room Creation </h3>
+
+<img src="/img/blocChat_newroom.PNG">
+<br>
+
+<h3> Sending Messages (Instant Chat) </h3>
+
+<img src="/img/blocChat_send.PNG">
+<br>
