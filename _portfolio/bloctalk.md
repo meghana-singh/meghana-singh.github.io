@@ -3,7 +3,7 @@ layout: post
 title: webAnalytics
 feature-img: "img/sample_feature_img.png"
 
-thumbnail-path: "img/webAnalytics_consolidated.png"
+thumbnail-path: "img/WebAnalytics_consolidated.png"
 short-description: Know what your users are doing!
 
 ---
