@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/img/portfolio.jpg" alt="Meghana" width="300" height="300">
-<!--![Meghana](/img/portfolio.jpg)-->
+<img class="resize" src="/img/Megh_for_portfolio.jpg" alt="Meghana"> 
 
 Hi,
 
