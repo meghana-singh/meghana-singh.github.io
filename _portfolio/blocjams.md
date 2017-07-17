@@ -10,7 +10,7 @@ short-description: Teleioo will motivate you to accomplish your goals!
 [Teleioo](https://lit-bayou-47361.herokuapp.com/users/sign_in)
 which in Greek means ***to carry through completely, to accomplish, finish, bring to an end*** is a productivity app with the goal of motivating users to complete their tasks in a given period of time. The app has motivational quotes and alert system when a task is approaching its deadline. The ultimate vision is to have smart motivational quotes contextual to tasks at hand and user's past behavior generated through artificial intelligence. The app is built using Ruby on Rails.
 
-<img src="/img/teleioo_welcome_index_view.png">
+<img src="/img/teleioo_welcome_index_view.PNG">
 <br>
 
 <h3> User's list of tasks </h3>
@@ -69,7 +69,7 @@ belongs_to :user
 validates :name, length: { minimum: 5 }, presence: true
 
 <h4> Validation of task attributes</h4>
-<img src="/img/teleioo_task_new_view.png">
+<img src="/img/teleioo_task_new_view.PNG">
 <br>
 
 <h4>ItemsController</h4>
@@ -103,7 +103,7 @@ The item is built with permitted attributes using the below mass assignment and 
 
 
 <h4> Create new task </h4>
-<img src="/img/teleioo_new_view.png">
+<img src="/img/teleioo_new_view.PNG">
 <br>
 
 ***Destroy Action***:
@@ -199,7 +199,7 @@ namespace :todo do
 end
 {% endhighlight %}
 
-<img src="/img/teleioo_welcome_about_view.png">
+<img src="/img/teleioo_welcome_about_view.PNG">
 <br>
 
 <h3>Conclusion</h3>
