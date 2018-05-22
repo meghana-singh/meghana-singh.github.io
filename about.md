@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img class="resize" src="/img/Megh_for_portfolio.jpg" alt="Meghana"> Hi, My name is Meghana Singh, I'm an Electronics and Communications Engineer with experience in the semiconductor industry. After having experience in the hardware industry, I decided to try my hand on software programming. I believe in never stop learning and this quest got me into learning new languages and frameworks in the software field. Do check out my [resume](https://drive.google.com/open?id=0B-5wm6CAWOXEUEppS3dram03TTA).
+<img class="resize" src="/img/Megh_for_portfolio.jpg" alt="Meghana"> Hi, My name is Meghana Singh, I'm an Electronics and Communications Engineer with experience in the semiconductor industry. After having experience in the hardware industry, I decided to try my hand on software programming. I believe in never stop learning and this quest got me into learning new languages and frameworks in the software field. Do check out my [resume](/img/Resume_Meghana_Singh_05222018.pdf).
 
 Do visit my [GitHub page](https://github.com/meghana-singh?tab=repositories) to get technical insight into my codes. Here in my portfolio I have shared some of the apps I have enjoyed building. 
 

@@ -12,8 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>A seasoned engineering professional with 12+ years of experience.</p>
-     <p>I'm looking to revitalize my career by creating meaningful end-to-end experiences by layering my web development skills over the VLSI engineering experience. </p>
+     <p>Passionate Mom, Web Developer, Engineering Professional looking forward to making a mark in the industry!</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
