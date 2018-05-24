@@ -7,7 +7,7 @@ thumbnail-path: "img/Teleioo_consolidated.png"
 short-description: Teleioo will motivate you to accomplish your goals!
 
 ---
-[Teleioo](https://lit-bayou-47361.herokuapp.com/users/sign_in)
+[Teleioo](https://github.com/meghana-singh/teleioo)
 which in Greek means ***to carry through completely, to accomplish, finish, bring to an end*** is a productivity app with the goal of motivating users to complete their tasks in a given period of time. The app has motivational quotes and alert system when a task is approaching its deadline. The ultimate vision is to have smart motivational quotes contextual to tasks at hand and user's past behavior generated through artificial intelligence. The app is built using Ruby on Rails.
 
 <img src="/img/teleioo_welcome_index_view.PNG">

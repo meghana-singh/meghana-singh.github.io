@@ -6,7 +6,7 @@ thumbnail-path: "img/Bloc_chat_consolidated.png"
 short-description: Lets Chat!
 
 ---
-WebChat is a AngularJS Firebase app for realtime chatting. Users can login, create chat rooms and chat with other logged in users.
+[WebChat](https://github.com/meghana-singh/bloc-chat-angular) is a AngularJS Firebase app for realtime chatting. Users can login, create chat rooms and chat with other logged in users.
 
 <img src="/img/blocChat_rooms.PNG">
 <br>

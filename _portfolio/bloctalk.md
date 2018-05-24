@@ -8,7 +8,7 @@ short-description: Know what your users are doing!
 
 ---
 
-[webAnalytics](https://secret-brushlands-22130.herokuapp.com/)
+[webAnalytics](https://github.com/meghana-singh/webAnalytics)
 is an end to end web analytics product with a dashboard built on Rails. Events are tracked, captured and saved to database using client side javaScript snippet and server side API.
 
 <img src="/img/webAnalytics_welcome_index_view.PNG">
